@@ -29,6 +29,4 @@ Based on various meteorological surveys and people's styles, the service provide
 - days.csv : Data worked on
 
 ## Contact
-    
-
-
+    Email : krithireddy10@gmail.com
